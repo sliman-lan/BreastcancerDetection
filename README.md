@@ -47,7 +47,6 @@ Manual, context-specific tasks not covered in the installation process.
     <img src="./loss.png" />
   </kbd>
 </div>
-## Back matter
 
 ### Acknowledgements
 
